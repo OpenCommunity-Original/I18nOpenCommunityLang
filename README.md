@@ -3,13 +3,16 @@
 The I18nOpenCommunityLang package provides a simple and efficient way to manage player locales and retrieve localized messages based on the player's locale. 
 
 This repository serves as an example usage of the I18nOpenCommunityLang API. The Main class in this repository demonstrates how to initialize the API and use it to load and access localized messages for different languages.
+
 ## Features
 
 * Automatic translation of plugin messages based on the player's locale. 
 * Easy management of player locales. 
 * Simple API to retrieve localized messages.
-* The API automatically creates a Messages folder in the plugin folder to store language files.
-* You can add new language files at any time by simply adding a .lang file with the appropriate language code in the Messages folder.
+* Asynchronous message loading.
+* Cached message retrieval.
+* Automatic creation of Messages folder in plugin directory for storing language files.
+* Adding new language files is as easy as adding a .lang file with the language code in the Messages folder.
 
 ## Usage
 

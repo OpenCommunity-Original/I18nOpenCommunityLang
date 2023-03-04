@@ -1,8 +1,8 @@
 # Minecraft Paper Plugin API - I18nOpenCommunityLang
 
-The I18nOpenCommunityLang package provides a simple and efficient way to manage player locales and retrieve localized messages based on the player's locale. 
+The I18nOpenCommunityLang API provides a simple and efficient way to manage player locales and retrieve localized messages based on the player's locale. 
 
-This repository serves as an example usage of the I18nOpenCommunityLang API. The Main class in this repository demonstrates how to initialize the API and use it to load and access localized messages for different languages.
+This repository serves as an example usage of the API. The Main class in this repository demonstrates how to initialize the API and use it to load and access localized messages for different languages.
 
 ## Features
 

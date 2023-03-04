@@ -1,0 +1,6 @@
+name: I18nLang
+version: ${version}
+main: org.opencommunity.I18nLang.Main
+api-version: 1.19
+authors: [Envel]
+description: Test.

@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly "io.papermc.paper:paper-api:1.19.3-R0.1-SNAPSHOT"
+    compileOnly "io.papermc.paper:paper-api:1.19.4-R0.1-SNAPSHOT"
 }
 
 processResources {
@@ -24,7 +24,7 @@ processResources {
 }
 
 shadowJar {
-    archiveFileName = 'I18nLand-' + project.version.toString() + '.jar'
+    archiveFileName = 'I18nLang-' + project.version.toString() + '.jar'
 }
 
 artifacts {
